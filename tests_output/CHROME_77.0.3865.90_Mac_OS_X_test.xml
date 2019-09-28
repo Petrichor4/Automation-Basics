@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
             failures="0"
-            tests="6">
+            tests="8">
 
   <testsuite name="test"
     errors="0" failures="0" hostname="" id="" package="test" skipped="0"
-    tests="6" time="1.743" timestamp="">
+    tests="8" time="1.604" timestamp="">
   
-    <testcase name="beforEach" classname="test" time="0.4350" assertions="0">
+    <testcase name="beforEach" classname="test" time="0.3930" assertions="0">
     </testcase>
   
-    <testcase name="Even and Odds" classname="test" time="0.4250" assertions="2">
+    <testcase name="Even and Odds" classname="test" time="0.2960" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Filter objects" classname="test" time="0.2190" assertions="1">
+    <testcase name="Not even and odds" classname="test" time="0.1670" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Filter string" classname="test" time="0.2130" assertions="1">
+    <testcase name="Filter objects" classname="test" time="0.1330" assertions="1">
 
     
     </testcase>
   
-    <testcase name="Palindrome" classname="test" time="0.2060" assertions="1">
+    <testcase name="Filter string" classname="test" time="0.1530" assertions="1">
 
     
     </testcase>
   
-    <testcase name="sum" classname="test" time="0.2450" assertions="1">
+    <testcase name="Palindrome" classname="test" time="0.1480" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Not plaindrome" classname="test" time="0.1400" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="sum" classname="test" time="0.1740" assertions="1">
 
     
     </testcase>
